@@ -1,7 +1,5 @@
----
 # tasks file for pointer-app
 # Conteúdo do arquivo /home/ec2-user/pointer-apps/roles/pointer-app/tasks/main.yml
-
 ---
 - name: Instalando Docker
   apt:
